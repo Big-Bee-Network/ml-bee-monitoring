@@ -8,3 +8,4 @@ Switch to the appropriate branch:
 ```bash
 git checkout preliminary-research    # For all research content
 git checkout ventura-milkvetch       # For Ventura Milkvetch work
+git checkout synthetic-data         # for creating synthetic training data
